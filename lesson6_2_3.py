@@ -12,7 +12,8 @@ MAX_COUNTER = 100
 
 offset = -2
 counter = 0
-chat_id = 787486073
+chat_id: int
+    #     = 787486073
 
 while counter < MAX_COUNTER:
 
